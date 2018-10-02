@@ -30,7 +30,7 @@ len(palavra) # 3
 
 
 # Metodo strip()
-# Retira espaços em branco no começo e nom fim
+# Retira espaços em branco no começo e no fim
 
 ' sobrando espaços '.strip() # 'sobrando espaços'
 
