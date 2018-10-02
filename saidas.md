@@ -1,8 +1,10 @@
 # Saídas
 
-# usamos a função print()
+#usamos a função print()
 
 print('Welcome to Python')
+
+#Welcome to Python
 
 print(5)
 
