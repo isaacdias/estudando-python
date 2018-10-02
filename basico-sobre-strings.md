@@ -21,7 +21,7 @@ len(palavra) # 3
 
 
 # Metodo isalpha()
-# Retorne False se a string contiver algum caracter que não seja letras
+# Retorna False se a string contiver algum caracter que não seja letras
 
 'abc'.isalpha() # True
 
