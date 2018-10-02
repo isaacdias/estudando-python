@@ -1,6 +1,7 @@
 # Podemos acessar uma string pelo seu index
 
 'python'[0] # 'p'
+
 'python'[5] # 'n'
 
 
