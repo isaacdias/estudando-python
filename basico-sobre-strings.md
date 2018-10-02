@@ -35,11 +35,11 @@ len(palavra) # 3
 
 
 # Metodo join()
-# Junta cada item de uma string com um delimtador especificado
+# Junta cada item de uma string com um delimitador especificado
 
 ', '.joint('abc') # 'a, b, c'
 
-# Metodo .slpit()
+# Metodo .split()
 # Separa uma string conforme um limitador
 
 palavra = 'n o m e'
