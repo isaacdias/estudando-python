@@ -8,7 +8,7 @@ if expressão:
     comando
 
 #
-#if's comuns...
+# if's comuns...
 #
 
 if expressão:
