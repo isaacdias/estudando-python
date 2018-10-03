@@ -3,12 +3,14 @@
 #if's simples
 
 if expressão:
+
     comando
 
 
 #if's comuns...
 
 if expressão:
+
     comando
 else:
     comando
