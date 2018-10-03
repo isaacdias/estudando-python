@@ -8,7 +8,7 @@ if expressão:
     comando
 
 #
-#if's comuns...
+# if's comuns...
 #
 
 if expressão:
@@ -26,5 +26,3 @@ elif:
     comando
 else:
     comando
-
-# teste
